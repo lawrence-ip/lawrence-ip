@@ -28,7 +28,7 @@ I bridge the gap between computational methods and biological research, developi
 
 ## 🎓 Education
 
-- **MSc Biochemical Engineering and Industrial Management** - University of Sheffield, Uniteed Kingdom
+- **MSc Biochemical Engineering and Industrial Management** - University of Sheffield, United Kingdom
 - **Bsc(hons) Biochemistry and Molecular Cell Biology** - University of Sheffield, United Kingdom
 
 ## 📊 GitHub Stats
