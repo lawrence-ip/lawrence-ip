@@ -1,64 +1,73 @@
 # Lawrence IP
 
-## 👨‍🔬 Bioinformatician | 🧬 CRISPR Specialist | 🔍 Metagenomics | 🤖 ML Engineer
+## ⚙️ IIoT AI Engineer | 🧠 Edge AI Specialist | 🤖 Embedded ML | 🎛️ Smart Manufacturing
 
-Welcome to my GitHub! I'm a bioinformatician with expertise in CRISPR technologies and microbial metagenomics. I specialize in building automation solutions and applying machine learning to biological data.
+Welcome to my GitHub! I'm an Industrial IoT (IIoT) AI Engineer specializing in bringing machine learning models to the industrial edge. I bridge the gap between heavy operational technology (OT), embedded hardware, and advanced AI systems to build scalable, low-latency automation solutions.
+
+---
 
 ## 🔬 About Me
 
-I bridge the gap between computational methods and biological research, developing tools that accelerate genomic analysis and discovery. My background in biochemical engineering combined with programming skills allows me to tackle complex biological problems through computational approaches.
+I design and deploy intelligent systems that process data directly where it is generated. With a strong background in engineering, software development, and machine learning, I focus on optimizing computer vision, predictive maintenance, and real-time anomaly detection models for resource-constrained hardware environments.
+
+---
 
 ## 🧪 Expertise
 
-- **CRISPR Technologies**: Design, analysis, and optimization of CRISPR systems
-- **Microbial Metagenomics**: Community analysis, taxonomic profiling, and functional annotation
-- **Bioinformatics Pipelines**: Development of reproducible and scalable data processing workflows
-- **Machine Learning**: Application of ML algorithms to predict biological phenomena and patterns
+*   **Edge AI Deployment**: Optimizing deep learning models for local, low-latency execution.
+*   **IIoT Connectivity**: Implementing robust M2M communication and cloud-to-edge data pipelines.
+*   **Embedded Machine Learning**: Quantizing, pruning, and compiling models for resource-constrained microcontrollers and SBCs.
+*   **Industrial Automation**: Building smart monitoring solutions, predictive maintenance systems, and automated quality control pipelines.
+
+---
 
 ## 💻 Technical Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Python](https://shields.io)
+![NVIDIA Jetson](https://shields.io)
+![Raspberry Pi 5](https://shields.io)
+![MQTT](https://shields.io)
+
+![TensorFlow](https://shields.io)
+![PyTorch](https://shields.io)
+![Docker](https://shields.io)
+![Bash](https://shields.io)
+
+---
 
 ## 🎓 Education
 
-- **MSc Biochemical Engineering and Industrial Management** - University of Sheffield, United Kingdom
-- **Bsc(hons) Biochemistry and Molecular Cell Biology** - University of Sheffield, United Kingdom
+*   **MSc Biochemical Engineering and Industrial Management** – University of Sheffield, United Kingdom
+*   **BSc (Hons) Biochemistry and Molecular Cell Biology** – University of Sheffield, United Kingdom
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lawrence-ip&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lawrence-ip&theme=radical" alt="GitHub Streak" />
-</p>
+---
 
 ## 🔭 Current Projects
 
 I'm currently working on:
-
-- Developing ML models for CRISPR guide RNA efficiency prediction
-- Building automated pipelines for processing large-scale metagenomic datasets
-- Creating visualization tools for complex biological data
-
-## 📫 Connect with Me
-
-[![Website](https://img.shields.io/badge/Website-lawrence--ip.com-blue?style=for-the-badge)](https://lawrence-ip.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lawrence-ip)
+*   Deploying LLM models on **NVIDIA Jetson** and **Raspberry Pi 5** for industrial defect detection.
+*   Building lightweight MQTT-based data brokers to stream telemetry data from sensor networks to local Edge AI nodes.
+*   Optimizing deep learning model weights via quantization to maximize hardware-accelerated FPS on the edge.
 
 ---
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lawrence-ip&color=brightgreen" alt="Profile views" />
+  <img src="https://vercel.app" alt="GitHub Stats" />
 </p>
-    </main>
-</body>
-</html>
+
+<p align="center">
+  <img src="https://herokuapp.com" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+[![Website](https://shields.io)](https://lawrence-ip.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+
+<p align="center">
+  <img src="https://komarev.com" alt="Profile views" />
+</p>
