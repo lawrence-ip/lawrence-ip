@@ -23,15 +23,19 @@ I design and deploy intelligent systems that process data directly where it is g
 
 ## 💻 Technical Skills
 
-![Python](https://shields.io)
-![NVIDIA Jetson](https://shields.io)
-![Raspberry Pi 5](https://shields.io)
-![MQTT](https://shields.io)
+<p align="center">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="NVIDIA Jetson" />
+  <img src="https://shields.io" alt="Raspberry Pi 5" />
+  <img src="https://shields.io" alt="MQTT" />
+</p>
 
-![TensorFlow](https://shields.io)
-![PyTorch](https://shields.io)
-![Docker](https://shields.io)
-![Bash](https://shields.io)
+<p align="center">
+  <img src="https://shields.io" alt="TensorFlow" />
+  <img src="https://shields.io" alt="PyTorch" />
+  <img src="https://shields.io" alt="Docker" />
+  <img src="https://shields.io" alt="Bash" />
+</p>
 
 ---
 
