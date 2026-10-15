@@ -21,25 +21,6 @@ I design and deploy intelligent systems that process data directly where it is g
 
 ---
 
-## 💻 Technical Skills
-
-<p align="center">
-  <img src="https://badgen.net" alt="Python" />
-  <img src="https://badgen.net" alt="NVIDIA Jetson" />
-  <img src="https://badgen.net" alt="Raspberry Pi 5" />
-  <img src="https://badgen.net" alt="MQTT" />
-</p>
-
-<p align="center">
-  <img src="https://badgen.net" alt="TensorFlow" />
-  <img src="https://badgen.net" alt="PyTorch" />
-  <img src="https://badgen.net" alt="Docker" />
-  <img src="https://badgen.net" alt="Bash" />
-</p>
-
-
----
-
 ## 🎓 Education
 
 *   **MSc Biochemical Engineering and Industrial Management** – University of Sheffield, United Kingdom
@@ -54,17 +35,6 @@ I'm currently working on:
 *   Building lightweight MQTT-based data brokers to stream telemetry data from sensor networks to local Edge AI nodes.
 *   Optimizing deep learning model weights via quantization to maximize hardware-accelerated FPS on the edge.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
-</p>
 
 ---
 
